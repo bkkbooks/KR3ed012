@@ -220,6 +220,7 @@ markers:
   - {type: 'tls:seg', offset: 360, content: '', id: KR3ed012_jc_106-d109.d2.p20s4}
   - {type: punctuation, offset: 363, content: ，, id: KR3ed012_jc_106-bkkpn86}
   - {type: 'tls:seg', offset: 363, content: '', id: KR3ed012_jc_106-d109.d2.p20s5}
+  - {type: substitution, offset: 367, original: 閤, replacement: 閣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16996}}
   - {type: punctuation, offset: 369, content: ，, id: KR3ed012_jc_106-bkkpn87}
   - {type: 'tls:seg', offset: 369, content: '', id: KR3ed012_jc_106-d109.d2.p20s6}
   - {type: punctuation, offset: 376, content: 。, id: KR3ed012_jc_106-bkkpn88}
@@ -4033,6 +4034,7 @@ markers:
   - {type: punctuation, offset: 6454, content: ）, id: KR3ed012_jc_106-bkkpn1564}
   - {type: 'tls:seg-end', offset: 6454, content: '', id: KR3ed012_jc_106-d109.d9.p70s7_end, seg_type: comm}
   - {type: 'tls:seg', offset: 6454, content: '', id: KR3ed012_jc_106-d109.d9.p70s8}
+  - {type: substitution, offset: 6455, original: 綠, replacement: 緑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20838}}
   - {type: 'tls:seg-start', offset: 6456, content: '', id: KR3ed012_jc_106-d109.d9.p70s9, seg_type: comm, member_ids: [KR3ed012_jc_106-d109.d9.p70s9]}
   - {type: 'tls:seg', offset: 6456, content: '', id: KR3ed012_jc_106-d109.d9.p70s9}
   - {type: punctuation, offset: 6456, content: （, id: KR3ed012_jc_106-bkkpn1565}
@@ -4353,4 +4355,4 @@ markers:
   - {type: punctuation, offset: 6973, content: 。, id: KR3ed012_jc_106-bkkpn1676}
   - {type: xml-element, offset: 6973, content: '', id: KR3ed012_jc_106-d109.d9p108_end, name: p, role: close, attrs: {'xml:id': KR3ed012_jc_106-d109.d9p108}}
   back: []
-hash: sha256:c364ecd0b5d67dfe7f09c13e73c1fa0ea5d88ac611ce6859959632264ebf6106
+hash: sha256:f71f65221b7fa435929a93b1856e961306a3c12ed0af3e7e08d72101486533c3
