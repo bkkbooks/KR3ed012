@@ -17,7 +17,7 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ed012_000.yaml, hash: 'sha256:1891b8e0909f67822f47dfd7afa03ffcfb919ed81852232cb04146f1d32d693c'}
+  - {seq: 0, filename: KR3ed012_000.yaml, hash: 'sha256:11490ba46c9fbeac3724f721088bd05c5937277ff97ff2eeac68d9692d73f486'}
   - {seq: 1, filename: KR3ed012_001.yaml, hash: 'sha256:90bbd50b3e74d0896f9d5929697a5a354e5f48d3e2396438d74ce7f2556316a3'}
   - {seq: 2, filename: KR3ed012_002.yaml, hash: 'sha256:0488a91ee425ffa7e4bcca368e96457e34044777b9c29e555d35f74898111677'}
   - {seq: 3, filename: KR3ed012_003.yaml, hash: 'sha256:28c607c522beec6c701ca2472e942833c3a8cd04b35faa1e741fe435d30c9e0c'}
@@ -219,7 +219,7 @@ assets:
   - {seq: 199, filename: KR3ed012_199.yaml, hash: 'sha256:8ff7b751e8c50ac89162c22ee09d1c8771b0ac5287ea5fb2f032c2dd6e535291'}
   - {seq: 200, filename: KR3ed012_200.yaml, hash: 'sha256:44f8c2dd1c7352c4546c0f9f9ee130cc42ad051ebecb64caa389b35e24a6da45'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ed012_000.markers.yaml, hash: 'sha256:d7486c546cf1c59966cce6b0d102767e4fa310e6a7de8a226cd2defe568dbc23'}
+  - {seq: 0, role: markers, filename: assets/KR3ed012_000.markers.yaml, hash: 'sha256:a1384643cb5fa884efdede6556f27be53614f052815f2255d7f6ad24178e22d4'}
   - {seq: 1, role: markers, filename: assets/KR3ed012_001.markers.yaml, hash: 'sha256:9d6dd963f1ecf71fa3f33a8b2e0de002a93246e6dc1b83bb12155a3d2315a9c4'}
   - {seq: 2, role: markers, filename: assets/KR3ed012_002.markers.yaml, hash: 'sha256:b2ae646bc0e0fad27fcf5c74d2a014ce34018250a8ad6e5ac3936856199f0a1e'}
   - {seq: 3, role: markers, filename: assets/KR3ed012_003.markers.yaml, hash: 'sha256:77ad0375b6d851b6657a2c83d2dd317096f289056b4efeca10e6b027cc854a26'}
@@ -425,7 +425,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed012_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 813
   label: 政和聖濟總錄序
@@ -435,7 +435,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ed012_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 813
     - 1533
   label: 大德重校聖濟總錄序
@@ -17371,7 +17371,7 @@ table_of_contents:
   label: 神仙煉丹
   type: section
   level: 2
-hash: sha256:7d030b993601b68073e1c34855c837f40d9c85394d209b6de242ac76a17b3ca6
+hash: sha256:20c804cd213c9dec33d0a260358f0b2720666775a99a264fb41cace9651787e2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
